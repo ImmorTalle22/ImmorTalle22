@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://clc.is/lYyW"  />
+  <img height="100%" src="https://clc.is/lYyW"  />
 </div>
 
 <h1 align="center">👋 Привет, я Илья / Ilya</h1>
