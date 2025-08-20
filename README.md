@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer из Минска</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=5C6BC0&center=true&vCenter=true&width=500&lines=HTML+%2F+CSS+%2F+SCSS;JavaScript+%2F+jQuery;Ruby+on+Rails;React+%2B+TypeScript;Figma+%2F+Photoshop" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=5C6BC0&center=true&vCenter=true&width=500&lines=HTML+%2F+CSS+%2F+SCSS;JavaScript+%2F+jQuery;Ruby+on+Rails;Figma+%2F+Photoshop" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -26,7 +26,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
