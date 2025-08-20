@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="300" width="600" src="https://clc.is/lYyW"  />
+</div>
+
 <h1 align="center">👋 Привет, я Илья / Ilya</h1>
 <h3 align="center">Frontend Developer из Минска</h3>
 
