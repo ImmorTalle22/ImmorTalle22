@@ -6,8 +6,7 @@
 <h3 align="center">Frontend Developer из Минска</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/8f3159ca-f3cf-48b2-ae0c-ffd6db259bf5" />
-" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="![SBtM (1)](https://github.com/user-attachments/assets/6bd01588-9d82-45a9-b9a2-239c98562714)" alt="Typing SVG" /></a>
 </p>
 
 ---
