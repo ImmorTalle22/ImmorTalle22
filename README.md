@@ -6,7 +6,7 @@
 <h3 align="center">Frontend Developer из Минска</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="![SBtM (1)](https://github.com/user-attachments/assets/6bd01588-9d82-45a9-b9a2-239c98562714)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://immortalle22.github.io/js-learning/LearningProject/SBtM%20(1)" alt="Typing SVG" /></a>
 </p>
 
 ---
