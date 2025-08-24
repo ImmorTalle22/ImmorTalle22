@@ -6,7 +6,8 @@
 <h3 align="center">Frontend Developer из Минска</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=5C6BC0&center=true&vCenter=true&width=500&lines=HTML+%2F+CSS+%2F+SCSS;JavaScript+%2F+jQuery;Ruby+on+Rails;Figma+%2F+Photoshop" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/8f3159ca-f3cf-48b2-ae0c-ffd6db259bf5" />
+" alt="Typing SVG" /></a>
 </p>
 
 ---
